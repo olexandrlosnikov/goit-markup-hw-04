@@ -22,7 +22,7 @@
 
 .footer-box {
   width: 264px;
-  margin-right: 100px;
+  margin-right: 120px;
 }
 
 .footer-section {
@@ -47,9 +47,10 @@
   color: #fff;
 }
 
-.social-list {
+.social-list-footer {
   display: flex;
   gap: 16px;
+  margin-top: 16px;
 }
 
 .social-link {
